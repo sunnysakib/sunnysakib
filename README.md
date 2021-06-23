@@ -3,7 +3,7 @@
 
 ## I'm a Web Developer and Learner!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Learn new technologies.
 - ⚡ Fun fact: I love to play Football and travel everywhere !!
 
