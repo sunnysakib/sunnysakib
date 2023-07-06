@@ -6,6 +6,8 @@ Software Engineer (Full Stack)
 
 I am a software engineer
 
+<img align="right" alt="samurai" width"400" src="https://i.pinimg.com/originals/30/ff/8c/30ff8cd0fc29ee0730cef49503061dc7.gif">
+
 * 🌍  I'm based in Dhaka City
 * 🖥️  See my portfolio at [MyPortfolio](http://sakiburrahaman.netlify.app/)
 * ✉️  You can contact me at [sakibur.rahaman.033@gmail.com](mailto:sakibur.rahaman.033@gmail.com)
