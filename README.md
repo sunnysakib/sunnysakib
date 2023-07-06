@@ -1,11 +1,14 @@
+<img src="https://htmlcolorcodes.com/assets/images/colors/dark-red-color-solid-background-1920x1080.png" width="2000" height="12"/>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sakibur Rahman Sunny
 ============================================================================================================================================
 
-Software Engineer (Full Stack)
-------------------------------
+### Software Engineer (Full Stack)
+----------------------------------
 
-<p height="1000">
+
 <img src="https://i.pinimg.com/originals/30/ff/8c/30ff8cd0fc29ee0730cef49503061dc7.gif"  height="400" align="right" alt="samurai"/>
+<br /><br /><br />
 I am a software engineer
 
 * 🌍  I'm based in Dhaka City
@@ -20,8 +23,9 @@ I am a software engineer
 src="https://img.shields.io/github/followers/sunnysakib?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a><a href="https://www.twitter.com/sunnysakib1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sunnysakib1?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
 /></a>
-</p>
 
+
+<br /><br /><br />
 ### Skills
 
 <p align="center">
@@ -66,14 +70,12 @@ src="https://img.shields.io/twitter/follow/sunnysakib1?logo=twitter&style=for-th
 
 <a href="http://www.github.com/sunnysakib"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnysakib&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/sunnysakib"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sunnysakib&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/sunnysakib" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysakib&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/sunnysakib/mediCare-server" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnysakib&repo=mediCare-server&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/sunnysakib/mediCare" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnysakib&repo=mediCare&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/sunnysakib/home-service-client" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnysakib&repo=home-service-client&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/sunnysakib/home-service-server" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnysakib&repo=home-service-server&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
