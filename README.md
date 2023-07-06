@@ -5,7 +5,7 @@ Software Engineer (Full Stack)
 ------------------------------
 
 <p height="1000">
-<img src="https://i.pinimg.com/originals/30/ff/8c/30ff8cd0fc29ee0730cef49503061dc7.gif"  height="500" align="right" alt="samurai"/>
+<img src="https://i.pinimg.com/originals/30/ff/8c/30ff8cd0fc29ee0730cef49503061dc7.gif"  height="300" align="right" alt="samurai"/>
 I am a software engineer
 
 * 🌍  I'm based in Dhaka City
