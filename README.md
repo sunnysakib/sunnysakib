@@ -6,16 +6,22 @@ Software Engineer (Full Stack)
 
 I am a software engineer
 
-*   🌍  I'm based in Dhaka City
-*   🖥️  See my portfolio at [MyPortfolio](http://sakiburrahaman.netlify.app/)
-*   ✉️  You can contact me at [sakibur.rahaman.033@gmail.com](mailto:sakibur.rahaman.033@gmail.com)
-*   🚀  I'm currently working on [Nasa Project](http://github.com/sunnysakib/nasa-project-server)
-*   🧠  I'm learning nodeJS
-*   🤝  I'm open to collaborating on any exciting project
-*   ⚡  I'm really enjoy to meet with new people<a href="https://www.github.com/sunnysakib" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/sunnysakib?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a><a href="https://www.twitter.com/sunnysakib1" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/sunnysakib1?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
-                /></a>### Skills 
+* 🌍  I'm based in Dhaka City
+* 🖥️  See my portfolio at [MyPortfolio](http://sakiburrahaman.netlify.app/)
+* ✉️  You can contact me at [sakibur.rahaman.033@gmail.com](mailto:sakibur.rahaman.033@gmail.com)
+* 🚀  I'm currently working on [Nasa Project](http://github.com/sunnysakib/nasa-project-server)
+* 🧠  I'm learning nodeJS
+* 🤝  I'm open to collaborating on any exciting project
+* ⚡ I really enjoy to meet with new people
+
+<a href="https://www.github.com/sunnysakib" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sunnysakib?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a><a href="https://www.twitter.com/sunnysakib1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/sunnysakib1?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
+/></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -44,20 +50,28 @@ I am a software engineer
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/sunnysakib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/sunny-sakib-64174a205/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@sakibur-rahaman033" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/sunnysakib1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/sunnysakib"><img src="https://github-readme-stats.vercel.app/api?username=sunnysakib&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="sunnysakib's GitHub stats" /></a><a
-                      href="http://www.github.com/sunnysakib"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=sunnysakib&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/sunnysakib"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sunnysakib&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/sunnysakib" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysakib&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/sunnysakib/mediCare-server" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnysakib&repo=mediCare-server&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/sunnysakib/mediCare" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnysakib&repo=mediCare&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/sunnysakib/home-service-client" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnysakib&repo=home-service-client&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/sunnysakib/home-service-server" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnysakib&repo=home-service-server&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/sunnysakib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sunny-sakib-64174a205/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sakibur-rahaman033" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sunnysakib1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sunnysakib"><img src="https://github-readme-stats.vercel.app/api?username=sunnysakib&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="sunnysakib's GitHub stats" /></a>
+
+<a href="http://www.github.com/sunnysakib"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnysakib&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/sunnysakib"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sunnysakib&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/sunnysakib" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysakib&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/sunnysakib/mediCare-server" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnysakib&repo=mediCare-server&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/sunnysakib/mediCare" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnysakib&repo=mediCare&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/sunnysakib/home-service-client" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnysakib&repo=home-service-client&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/sunnysakib/home-service-server" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunnysakib&repo=home-service-server&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
