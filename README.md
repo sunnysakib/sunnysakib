@@ -68,9 +68,9 @@ src="https://img.shields.io/twitter/follow/sunnysakib1?logo=twitter&style=for-th
   
 <a href="http://www.github.com/sunnysakib"><img src="https://github-readme-stats.vercel.app/api?username=sunnysakib&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="sunnysakib's GitHub stats" /></a>
 
-<a href="http://www.github.com/sunnysakib"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnysakib&stroke=ffffff&background=0D1117&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sunnysakib"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnysakib&stroke=ffffff&background=0D1117&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/sunnysakib" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysakib&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sunnysakib"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysakib&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
