@@ -14,8 +14,7 @@ I am a software engineer
 * 🌍  I'm based in Dhaka City
 * 🖥️  See my portfolio at [MyPortfolio](http://sakiburrahaman.netlify.app/)
 * ✉️  You can contact me at [sakibur.rahaman.033@gmail.com](mailto:sakibur.rahaman.033@gmail.com)
-* 🚀  I'm currently working on [Ecobazar organic eCommerce Project](https://github.com/sunnysakib/ecoBazar-client) and [CSE479 Project - Furniture Shop](https://github.com/sunnysakib/woody-furniture-web)
-* 🧠  I'm currently learning PHP
+* 🚀  I'm currently working on [Ecobazar organic eCommerce Project](https://github.com/sunnysakib/ecoBazar-client)
 * 🤝  I'm open to collaborating on any exciting project
 * ⚡ I really enjoy to meet with new people
 
