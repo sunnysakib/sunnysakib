@@ -16,7 +16,7 @@ I am a software engineer
 * ✉️  You can contact me at [sakibur.rahaman.033@gmail.com](mailto:sakibur.rahaman.033@gmail.com)
 * 🚀  I'm currently working on [Ecobazar organic eCommerce Project](https://github.com/sunnysakib/ecoBazar-client)
 * 🤝  I'm open to collaborating on any exciting project
-* ⚡ I really enjoy to meet with new people
+* ⚡ I enjoy to meet with new people
 
 <a href="https://www.github.com/sunnysakib" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sunnysakib?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a><a href="https://www.twitter.com/sunnysakib1" target="_blank" rel="noreferrer"><img
