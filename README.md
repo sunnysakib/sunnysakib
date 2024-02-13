@@ -22,9 +22,7 @@ I am a software engineer
 src="https://img.shields.io/github/followers/sunnysakib?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a><a href="https://www.twitter.com/sunnysakib1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sunnysakib1?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
 /></a>
-</a><a href="https://www.linkedin.com/in/sunnysakib/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/facebook/followers/sunnysakib2?logo=facebook&style=for-the-badge&color=3382ed&labelColor=0f172a"
-/></a>
+>
 
 <br /><br /><br />
 ### Skills
