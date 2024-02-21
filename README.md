@@ -5,9 +5,8 @@ Hi !! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1qaDNjdXBqan
 
 ### Software Engineer (Full Stack)
 ----------------------------------
+<a href="https://app.daily.dev/sunny_sakib"><img src="https://api.daily.dev/devcards/v2/LLc7P7HN7.png?type=default&r=v6p" align="right" width="300" alt="sunny sakib's Dev Card"/></a>
 
-
-<img src="https://i.pinimg.com/originals/30/ff/8c/30ff8cd0fc29ee0730cef49503061dc7.gif"  height="380" align="right" alt="samurai"/>
 <br /><br /><br />
 I am a software engineer
 
@@ -66,6 +65,7 @@ src="https://img.shields.io/twitter/follow/sunnysakib1?logo=twitter&style=for-th
 <b>My GitHub Stats</b>
   
 <a href="http://www.github.com/sunnysakib"><img src="https://github-readme-stats.vercel.app/api?username=sunnysakib&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="sunnysakib's GitHub stats" /></a>
+
 
 <a href="http://www.github.com/sunnysakib"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnysakib&stroke=ffffff&background=0D1117&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
