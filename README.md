@@ -5,7 +5,7 @@ Hi !! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1qaDNjdXBqan
 
 ### Software Engineer (Full Stack)
 ----------------------------------
-<a href="https://app.daily.dev/sunny_sakib"><img src="https://api.daily.dev/devcards/v2/LLc7P7HN7.png?type=default&r=v6p" align="right" width="300" alt="sunny sakib's Dev Card"/></a>
+<a href="https://app.daily.dev/sunny_sakib"><img src="https://api.daily.dev/devcards/v2/LLc7P7HN7.png?type=default&r=v6p" align="right" width="280" alt="sunny sakib's Dev Card"/></a>
 
 <br /><br /><br />
 I am a software engineer
