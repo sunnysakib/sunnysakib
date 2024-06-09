@@ -13,7 +13,7 @@ I am a software engineer
 * 🌍  I'm based in Dhaka City
 * 🖥️  See my portfolio at [MyPortfolio](http://sakiburrahaman.netlify.app/)
 * ✉️  You can contact me at [sakibur.rahaman.033@gmail.com](mailto:sakibur.rahaman.033@gmail.com)
-* 🚀  I'm currently working on "My Makan Real Estate Project"
+* 🚀  I'm currently working on [findexx](https://www.findexx.net/)
 * 🤝  I'm open to collaborating on any exciting project
 
 
