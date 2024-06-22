@@ -11,7 +11,6 @@ Hi !! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1qaDNjdXBqan
 I am a software engineer
 
 * 🌍  I'm based in Dhaka City
-* 🖥️  See my portfolio at [MyPortfolio](http://sakiburrahaman.netlify.app/)
 * ✉️  You can contact me at [sakibur.rahaman.033@gmail.com](mailto:sakibur.rahaman.033@gmail.com)
 * 🚀  I'm currently working on [studyswiftly](https://studyswiftly.com/)
 * 🤝  I'm open to collaborating on any exciting project
