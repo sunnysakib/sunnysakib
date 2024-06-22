@@ -3,11 +3,10 @@
 Hi !! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1qaDNjdXBqanR0bm9lczZjNGV5dmZiYmM2NWE1dGU4NDhoZHIwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2Ygy0khwewLgMSYM0t/giphy.gif" height="40"/>My name is Sakibur Rahman Sunny
 ============================================================================================================================================
 
-### Software Engineer (Full Stack)
-----------------------------------
-<a href="https://app.daily.dev/sunny_sakib"><img src="https://api.daily.dev/devcards/v2/LLc7P7HN7.png?type=default&r=v6p" align="right" width="280" alt="sunny sakib's Dev Card"/></a>
+<a href="https://app.daily.dev/sunny_sakib"><img src="https://api.daily.dev/devcards/v2/LLc7P7HN7.png?type=default&r=3r9" align="right" width="300" alt="sunny sakib's Dev Card"/></a>
 
-<br /><br /><br />
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
+I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.edu/)** majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 I am a software engineer
 
 * 🌍  I'm based in Dhaka City
@@ -15,14 +14,13 @@ I am a software engineer
 * 🚀  I'm currently working on [studyswiftly](https://studyswiftly.com/)
 * 🤝  I'm open to collaborating on any exciting project
 
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/sunnysakib/)](https://github.com/sunnysakib/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunnysakib/)](https://www.linkedin.com/in/sunnysakib/)
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-black?style=flat-square&logo=leetcode&link=https://leetcode.com/u/sUnny8161020/)](https://leetcode.com/u/sUnny8161020/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakibur.rahaman033@gmail.com)](mailto:sakibur.rahaman033@gmail.com)
 
-<a href="https://www.github.com/sunnysakib" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sunnysakib?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a><a href="https://www.twitter.com/sunnysakib1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sunnysakib1?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
-/></a>
->
 
-<br /><br /><br />
 ### Skills
 
 <p align="center">
@@ -53,11 +51,6 @@ src="https://img.shields.io/twitter/follow/sunnysakib1?logo=twitter&style=for-th
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/sunnysakib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sunny-sakib-64174a205/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sakibur-rahaman033" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sunnysakib1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### GitHub Stats
 
