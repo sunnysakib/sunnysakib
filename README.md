@@ -6,7 +6,7 @@ Hi !! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1qaDNjdXBqan
 <a href="https://app.daily.dev/sunny_sakib"><img src="https://api.daily.dev/devcards/v2/LLc7P7HN7.png?type=default&r=3r9" align="right" width="300" alt="sunny sakib's Dev Card"/></a>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
-I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.edu/)** majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm a **Grad Student🎓 [@ East West University 🅾️](https://ewubd.edu/)** majoring in Software Engineer. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 I am a software engineer
 
 * 🌍  I'm based in Dhaka City
