@@ -3,7 +3,8 @@
 Hi !! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1qaDNjdXBqanR0bm9lczZjNGV5dmZiYmM2NWE1dGU4NDhoZHIwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2Ygy0khwewLgMSYM0t/giphy.gif" height="40"/>My name is Sakibur Rahman Sunny
 ============================================================================================================================================
 
-<a href="https://app.daily.dev/sunny_sakib"><img src="https://api.daily.dev/devcards/v2/LLc7P7HN7.png?type=default&r=3r9" align="right" width="300" alt="sunny sakib's Dev Card"/></a>
+
+<a href="https://app.daily.dev/sunny_sakib"><img src="https://preview.redd.it/what-happened-to-condemned-ghost-v0-auqvr4gvyewb1.png?auto=webp&s=43c27baaa800da849b5debe0613e6e2ba0d57d2a" align="right" width="500" alt="sunny sakib's Dev Card"/></a>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 I'm a **Grad Student🎓 [@ East West University 🅾️](https://ewubd.edu/)** majoring in Software Engineer. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
