@@ -6,7 +6,7 @@ Hi !! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1qaDNjdXBqan
 
 <a href="https://app.daily.dev/sunny_sakib"><img src="https://preview.redd.it/what-happened-to-condemned-ghost-v0-auqvr4gvyewb1.png?auto=webp&s=43c27baaa800da849b5debe0613e6e2ba0d57d2a" align="right" width="500" alt="sunny sakib's Dev Card"/></a>
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  
 I'm a **Grad Student🎓 [@ East West University 🅾️](https://ewubd.edu/)** majoring in Software Engineer. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 I am a software engineer
 
