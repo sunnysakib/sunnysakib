@@ -12,7 +12,7 @@ I am a software engineer
 
 * 🌍  I'm based in Dhaka City
 * ✉️  You can contact me at [sakibur.rahaman.033@gmail.com](mailto:sakibur.rahaman.033@gmail.com)
-* 🚀  I'm currently working on [studyswiftly](https://studyswiftly.com/) [brainylegalai](https://brainylegalai.com/)
+* 🚀  I'm currently working on [Nandifoods ERP System](https://nandifoods.com/)
 * 🤝  I'm open to collaborating on any exciting project
 
 ### 📬 Find me at
